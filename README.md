@@ -4,6 +4,7 @@
 - I worked with a number of 8-bit computers in the early 80's, and that interest has come back with a vengeance :)
 - I've restored my original computers, VIC 20, Commodore 64, and the later Commodore 128's, along with my IBM PC, PS/2 Model 30, and my Macintosh Plus 1MB
 - The Macintosh Plus was my first Apple, I used it for Compuserve while doing BETA Microsoft software development
+- I acquired a used Macintosh Color Classic and a used Apple ][c soon after that
 - A 25 pin BlueSCSI and a Floppy EMU compliment the Macintosh Plus very well
 - There were many PC's of all shapes and sizes between then and now
 - I'm also working with the Commander X16, Developer version
