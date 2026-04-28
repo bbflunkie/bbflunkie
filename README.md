@@ -11,7 +11,6 @@
 - A couple years ago I started fooling with Vice (Commodore Emulator) on macOS.
 - I've learned about and configured Basilisk II, SheepShaver, and Mini vMac, all running well on macOS.
 - The emulators make it easy to assemble Files and Content for the earlier old computers.
-- 
 
 <!---
 bbflunkie/bbflunkie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
